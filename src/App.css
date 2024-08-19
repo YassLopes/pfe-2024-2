@@ -13,6 +13,14 @@
   }
 }
 
+hr {
+  border: 0;
+  height: 1px; 
+  background-color: #ccc; 
+  width: 80%; 
+  margin: 20px auto;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
